@@ -14,3 +14,8 @@ function logWhisper(string){
   
   console.log(string.toLowerCase()) ;
 }
+function sayHiToGranma(string){
+  if (string.toLowerCase== string) {
+    
+  }
+}
