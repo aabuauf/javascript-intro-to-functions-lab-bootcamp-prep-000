@@ -1,3 +1,3 @@
 function shout(string){
-  it("")
+  it("receives one argument and returns it in all caps")
 }
