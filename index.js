@@ -6,3 +6,7 @@ function shout(string){
 function whisper(word){
   return word.toLowerCase()
 }
+function logShout(string){
+  
+  Log string.toUpperCase()
+}
